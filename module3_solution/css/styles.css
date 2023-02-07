@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+  }
+
+  div.container-fluid  {
+    margin left: 10px;
+    background-color: rgb(196, 195, 195);
+  }
+
+  .nav-item {
+    background-color: #ffff
+  }
+
+  
+  p {
+    
+  }
+
+h1 {
+     margin-bottom: 15px;
+     text-align: center;
+}
+section {
+    border: 1px solid black;
+    background-color: rgb(196, 195, 195);
+    height: 1000px;
+    overflow: auto;
+    margin: 10px;
+    padding: 15px;
+}    
+
+li { 
+    border: 1px solid black;
+    font-size: 125%;
+    text-align: center;
+
+}
+h2 {
+    text-align: center;
+    padding: 10px;
+    margin-top: 0;
+    margin-bottom: 10px;
+
+}
+p {
+    clear: right;
+    padding-left: 10px;
+    margin: 10px
+    width: 90%
+}
+
+
+
